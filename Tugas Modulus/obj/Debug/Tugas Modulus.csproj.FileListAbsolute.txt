@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Tugas Modulus\Tugas Modulus\bin\Debug\Tugas Modulus.exe.config
+C:\Users\HP\source\repos\Tugas Modulus\Tugas Modulus\bin\Debug\Tugas Modulus.exe
+C:\Users\HP\source\repos\Tugas Modulus\Tugas Modulus\bin\Debug\Tugas Modulus.pdb
+C:\Users\HP\source\repos\Tugas Modulus\Tugas Modulus\obj\Debug\Tugas Modulus.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Tugas Modulus\Tugas Modulus\obj\Debug\Tugas Modulus.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Tugas Modulus\Tugas Modulus\obj\Debug\Tugas Modulus.exe
+C:\Users\HP\source\repos\Tugas Modulus\Tugas Modulus\obj\Debug\Tugas Modulus.pdb
